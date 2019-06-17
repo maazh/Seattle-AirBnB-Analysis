@@ -1,5 +1,7 @@
 # Seattle AirBnB Analysis 
 
+Link to Medium Article: https://medium.com/@maazhassan2/a-quick-guide-to-being-a-successful-airbnb-host-in-seattle-c629dea0d7b4?postPublishedType=initial
+
 #### This repository includes:
 
     - Seattle_AirBnB_Analysis.ipynb: Which is the source code for the Data Analysis performed and iteratively shows the CRISP - DM process followed to gain insights of the dataset.
